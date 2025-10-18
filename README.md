@@ -9,6 +9,7 @@ It provides valuable insights into revenue distribution, sales trends, and top-p
 
 
 🎯 **Objectives**
+
 Analyze sales trends over time (monthly & yearly).
 Identify top 10 best-selling products by sales revenue.
 Visualize country-wise revenue contribution.
@@ -17,11 +18,13 @@ Present an interactive, executive-level dashboard for business insights.
 
 🧰 **Tools & Technologies
 Purpose	Tool Used**:
+
 Data Cleaning	Microsoft Excel
 Data Visualization	Power BI
 Data Source	E-commerce Sales Dataset (2009–2011)
 
 🧾 **Dataset Description**
+
 The dataset contains sales transactions from an e-commerce platform with the following key columns:
 Country, Customer ID, Description, Invoice, InvoiceDate, Price, Quantity, Revenue and StockCode
 
